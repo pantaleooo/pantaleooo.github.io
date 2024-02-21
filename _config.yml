@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xiangpeng Hou"
 description              : &description "personal description"
