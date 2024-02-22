@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Xiangpeng Hou (侯祥鹏)** is a Ph.D. candidate (since 2023) at the Nanjing University of Science and Technology, Nanjing, China, advised by Assoc. Prof. [Junlong Zhou (周俊龙)](https://www.junlongzhou.team/index-cn.html). His current interests mainly focus on:
+**Xiangpeng Hou (侯祥鹏)** is a Ph.D. student (since 2023) at the School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China, advised by Assoc. Prof. [Junlong Zhou (周俊龙)](https://www.junlongzhou.team/index-cn.html). His current interests mainly focus on:
+
 
 + **Edge Intelligence (EI)**
 + **Mobile Edge Computing (MEC)**
