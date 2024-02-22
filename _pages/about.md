@@ -13,8 +13,7 @@ redirect_from:
 + **Mobile Edge Computing (MEC)**
 
 ## Publications
-+ [J1] Peijin Cong, **Xiangpeng Hou**, Minhui Zou, Jiangshan Dong, Mingsong Chen, Junlong Zhou, ''Multiserver Configuration for Cloud Service Profit Maximization in the Presence of Soft Errors based on Grouped Grey Wolf Optimizer'', *Journal of Systems Architecture*, vol. 127, article no. 102512, 2022.
-
++ [J1] Peijin Cong, **Xiangpeng Hou**, Minhui Zou, Jiangshan Dong, Mingsong Chen, Junlong Zhou, ''Multiserver Configuration for Cloud Service Profit Maximization in the Presence of Soft Errors based on Grouped Grey Wolf Optimizer'', *Journal of Systems Architecture*, vol. 127, article no. 102512, 2022. [[Abstract]](https://www.sciencedirect.com/science/article/pii/S1383762122000820) [[PDF]](../attachment/J1_Cong2022JSA.pdf)
 
 
 ## 中国专利
