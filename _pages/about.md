@@ -38,8 +38,8 @@ redirect_from:
 + IET Cyber-Physical Systems: Theory & Applications
 
 ### TPC Member
-+ IEEE Conference on Green Computing and Communication (GreenCom-2023)
-+ IEEE International Conference on Parallel and Distributed Systems (ICPADS-2023)
++ IEEE Conference on Green Computing and Communication (GreenCom), 2023-2024
++ IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023
 
 
 
