@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Xiangpeng Hou"
+name                     : &name "行到水穷处 坐看云起时"
 description              : &description "personal description"
 url                      : https://pantaleooo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "pantaleooo/pantaleooo.github.io"
 author:
   # Biographic information
   avatar           : "cat.png"
-  name             : "xphou@njust.edu.cn"
+  name             : "行到水穷处 坐看云起时"
   pronouns         : # example: "she/her"  
-  bio              : "行到水穷处 坐看云起时"
+  bio              : # "行到水穷处 坐看云起时"
   location         : "Nanjing, China"
   employer         : # "Red Brick University"
   uri              : # URL
