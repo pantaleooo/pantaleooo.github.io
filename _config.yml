@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "行到水穷处 坐看云起时"
+name                     : &name "云在青天水瓶座"
 description              : &description "personal description"
 url                      : https://pantaleooo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
