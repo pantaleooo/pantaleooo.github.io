@@ -15,7 +15,7 @@ redirect_from:
 
 ## Publications
 + [J1] Peijin Cong, **Xiangpeng Hou**, Minhui Zou, Jiangshan Dong, Mingsong Chen, Junlong Zhou, ''Multiserver Configuration for Cloud Service Profit Maximization in the Presence of Soft Errors based on Grouped Grey Wolf Optimizer'', *Journal of Systems Architecture*, vol. 127, article no. 102512, 2022. [[Abstract]](https://www.sciencedirect.com/science/article/pii/S1383762122000820) [[PDF]](../attachment/J1_Cong2022JSA.pdf)
-+ [J2] **侯祥鹏**，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙，边缘智能综述：前沿与进展 ，《控制与决策》， 在审.
++ [J2] **侯祥鹏**，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙，边缘智能与协同计算：前沿与进展，《控制与决策》， 接收.
 
 
 ## 中国专利
