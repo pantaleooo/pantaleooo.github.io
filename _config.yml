@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "云在青天水瓶座"
+name                     : &name "云在青天水在瓶"
 description              : &description "personal description"
 url                      : https://pantaleooo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "cat.png"
   name             : "xphou@njust.edu.cn"
   pronouns         : # example: "she/her"  
-  bio              : "行到水穷处 坐看云起时"
+  bio              : "云在青天水在瓶"
   location         : "Nanjing, China"
   employer         : # "Red Brick University"
   uri              : # URL
