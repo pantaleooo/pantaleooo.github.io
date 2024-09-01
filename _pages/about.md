@@ -19,6 +19,7 @@ redirect_from:
 
 ## Submitted
 + [J3] **Xiangpeng Hou**, Junlong Zhou, Mingzhou Zhao, Liying Li, Peijin Cong, Zebin Wu, Shiyan Hu, ''ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources'', *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, under review.
++ [J4] Junlong Zhou, **Xiangpeng Hou**, Peijing Cong, Weiming Jiang, Yue Zeng, Song Guo, ''Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems'', *IEEE Transactions on Service Computing*, under review.
 
 ## 中国专利
 + [1] 周俊龙，**侯祥鹏**，丛佩金，基于顾客敏感性分析的云服务利润最优化方法及系统，ZL 202310107447.8，已授权.
