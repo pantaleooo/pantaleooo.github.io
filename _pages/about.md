@@ -16,7 +16,7 @@ redirect_from:
 ## Publications
 + [J1] Peijin Cong, **Xiangpeng Hou**, Minhui Zou, Jiangshan Dong, Mingsong Chen, Junlong Zhou, ''Multiserver Configuration for Cloud Service Profit Maximization in the Presence of Soft Errors based on Grouped Grey Wolf Optimizer'', *Journal of Systems Architecture*, vol. 127, article no. 102512, 2022. [[Abstract]](https://www.sciencedirect.com/science/article/pii/S1383762122000820) [[PDF]](../attachment/J1_Cong2022JSA.pdf)
 + [J2] **侯祥鹏**，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙，边缘智能与协同计算：前沿与进展 ，《控制与决策》，39(7): 2385-2404, 2024.
-+ [J3] **Xiangpeng Hou**, Junlong Zhou, Mingzhou Zhao, Liying Li, Peijin Cong, Zebin Wu, Shiyan Hu, ''ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources'', *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, accepted.
++ [J3] **Xiangpeng Hou**, Junlong Zhou, Mingzhou Zhao, Liying Li, Peijin Cong, Zebin Wu, Shiyan Hu, ''ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources'', *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, DOI: 10.1109/TCAD.2024.3513892.
 
 ## Submitted
 
