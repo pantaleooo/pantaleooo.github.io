@@ -15,3 +15,12 @@
     display: none;
     padding : 5px;
 }
+
+.ccf-tag {
+  background-color: #28a745; /* 深绿色 */
+  color: white;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-weight: bold;
+  margin-left: 5px; /* 与前面的文字稍微隔开一点距离 */
+}
