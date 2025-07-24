@@ -15,11 +15,25 @@ redirect_from:
 + **Mobile Edge Computing (MEC)**
 
 ## Publications
-+ [TCAD'25] **Xiangpeng Hou**, Junlong Zhou, Mingzhou Zhao, Liying Li, Peijin Cong, Zebin Wu, Shiyan Hu, ''ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources'', *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, vol. 44, no. 6, pp. 2392-2397, 2025. <span class="tag tag-ccf">CCF A</span>
-+ [控制与决策'24] **侯祥鹏**，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙，边缘智能与协同计算：前沿与进展，《控制与决策》，39(7): 2385-2404, 2024. <span class="tag tag-ccf">CAA A</span>
-+ [TSC'25] Junlong Zhou, **Xiangpeng Hou**, Yue Zeng, Weiming Jiang, Song Guo, “Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems”, IEEE Transactions on Services Computing, vol. 18, no. 3, pp. 1683-1696, 2025. <span class="tag tag-ccf">CCF A</span>
-+ [IPDPS'25] Qianpiao Ma, Junlong Zhou, **Xiangpeng Hou**, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia, “Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation”, IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025. <span class="tag tag-ccf">CCF B</span>
-+ [JSA'22] Peijin Cong, **Xiangpeng Hou**, Minhui Zou, Jiangshan Dong, Mingsong Chen, Junlong Zhou, ''Multiserver Configuration for Cloud Service Profit Maximization in the Presence of Soft Errors based on Grouped Grey Wolf Optimizer'', *Journal of Systems Architecture*, vol. 127, article no. 102512, 2022. [[Abstract]](https://www.sciencedirect.com/science/article/pii/S1383762122000820) [[PDF]](../attachment/J1_Cong2022JSA.pdf) <span class="tag tag-ccf">CCF B</span>
++ **ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources** [[Link]](https://ieeexplore.ieee.org/document/10786322) \
+    **Xiangpeng Hou**, Junlong Zhou, Mingzhou Zhao, Liying Li, Peijin Cong, Zebin Wu, Shiyan Hu \
+    *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 44, no. 6, pp. 2392-2397, 2025.* <span class="tag tag-ccf">CCF A</span>
+  
++ **边缘智能与协同计算：前沿与进展** [[Link]](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240730) \
+    **侯祥鹏**，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙 \
+    *《控制与决策》，vol. 39, no. 7, pp. 2385-2404, 2024.* <span class="tag tag-ccf">CAA A</span>
+    
++ **Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems** [[Link]](https://ieeexplore.ieee.org/document/10930689) \
+    Junlong Zhou, **Xiangpeng Hou**, Yue Zeng, Weiming Jiang, Song Guo \
+    *IEEE Transactions on Services Computing, vol. 18, no. 3, pp. 1683-1696, 2025.* <span class="tag tag-ccf">CCF A</span>
+    
++ **Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation** [[Link]](https://arxiv.org/abs/2507.05704) \
+    Qianpiao Ma, Junlong Zhou, **Xiangpeng Hou**, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia \
+    *IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025.* <span class="tag tag-ccf">CCF B</span>
+    
++ **Multiserver Configuration for Cloud Service Profit Maximization in the Presence of Soft Errors based on Grouped Grey Wolf Optimizer** [[Link]](https://www.sciencedirect.com/science/article/pii/S1383762122000820) \
+    Peijin Cong, **Xiangpeng Hou**, Minhui Zou, Jiangshan Dong, Mingsong Chen, Junlong Zhou \
+    *Journal of Systems Architecture, vol.127, article no. 102512, 2022.*  <span class="tag tag-ccf">CCF B</span>
 
 
 ## Submitted
