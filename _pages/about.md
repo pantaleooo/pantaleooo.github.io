@@ -26,7 +26,7 @@ redirect_from:
 
 ## 中国专利
 + [1] 周俊龙，**侯祥鹏**，丛佩金，基于顾客敏感性分析的云服务利润最优化方法及系统，ZL 202310107447.8，已授权.
-+ [2] 周俊龙，孙艺瑄，魏凌霄，杨萌萌，陆烨，侯祥鹏，自供能移动边缘计算场景中低延迟高可靠的任务卸载与调度方法，ZL 202411787972.X，已授权.
++ [2] 周俊龙，孙艺瑄，魏凌霄，杨萌萌，陆烨，**侯祥鹏**，自供能移动边缘计算场景中低延迟高可靠的任务卸载与调度方法，ZL 202411787972.X，已授权.
 
 
 ## Honors and Awards
@@ -42,12 +42,17 @@ redirect_from:
 ## Service
 
 ### Reviewer
++ International Journal of Machine Learning and Cybernetics
 + Journal of Circuits, Systems, and Computers
 + IET Cyber-Physical Systems: Theory & Applications
 
 ### TPC Member
-+ IEEE Conference on Green Computing and Communication (GreenCom), 2023-2024
++ IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2024-2025
++ IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2024-2025
 + IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023
++ IEEE International Conference on Internet of Things (iThings), 2024
++ IEEE Conference on Green Computing and Communication (GreenCom), 2023-2024
++ IEEE International Conference on Intelligent Technology and Embedded Systems (ICITES), 2022-2025
 
 
 
