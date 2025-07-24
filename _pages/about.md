@@ -8,7 +8,7 @@ redirect_from:
 ---
 <link rel="stylesheet" href="/assets/css/collapse.css">
 
-**Xiangpeng Hou (侯祥鹏)** is a Ph.D. student (since 2023) at the School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China, advised by Assoc. Prof. [Junlong Zhou (周俊龙)](http://junlongzhou.team/index.html). His current interests mainly focus on:
+**Xiangpeng Hou (侯祥鹏)** is a Ph.D. student (since 2023) at the School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China, advised by Prof. [Junlong Zhou (周俊龙)](http://junlongzhou.team/index.html). His current interests mainly focus on:
 
 
 + **Edge Intelligence (EI)**
