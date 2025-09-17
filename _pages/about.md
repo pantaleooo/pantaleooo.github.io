@@ -17,7 +17,7 @@ redirect_from:
 ## Publications
 + **ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources** [[Link]](https://ieeexplore.ieee.org/document/10786322) \
     **Xiangpeng Hou**, Junlong Zhou, Mingzhou Zhao, Liying Li, Peijin Cong, Zebin Wu, Shiyan Hu \
-    *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 44, no. 6, pp. 2392-2397, 2025.* <span class="tag tag-ccf">CCF A</span>
+    *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 44, no. 6, pp. 2392-2397, 2025.* <span class="tag tag-ccf">CCF A</span> <span class="tag tag-hotPap">ESI Hot Paper</span> <span class="tag tag-highlyCitedPap">ESI Highly Cited Paper</span>
   
 + **边缘智能与协同计算：前沿与进展** [[Link]](http://kzyjc.alljournals.cn/kzyjc/article/abstract/20240730) \
     **侯祥鹏**，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙 \
