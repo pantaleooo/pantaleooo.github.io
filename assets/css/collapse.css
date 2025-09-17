@@ -35,3 +35,14 @@
   color: #2E8B57; /* 海绿色 SeaGreen */
   background-color: #F0FFF0; /* 蜜瓜色 Honeydew */
 }
+
+
+.tag-hotPap {
+  color: #FF0000; /* 红色 Red */
+  background-color: #FFF0F0; /* 浅红色 LightRed */
+}
+
+.tag-highlyCitedPap {
+  color: #FF0000; /* 红色 Red */
+  background-color: #FFF0F0; /* 浅红色 LightRed */
+}
